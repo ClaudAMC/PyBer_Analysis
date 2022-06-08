@@ -37,5 +37,7 @@ Below we can see the summary multiple-line graph showing the weekly fares for ea
 Business recommendations adressing any disparities among the city types would include:
 
 1. Create incentives for drivers in suburban and rural cities as it is possible that lack of avaliable drivers may be preventing more customers from looking for these services in these areas. With more drivers the average fare per ride may decrease incentivizing riders to use the service more often; this might prove particularly useful in suburban cities.
+
 2. Conversely, in urban cities there are more drivers than riders. This means that it is possible some drivers do not always have work. It may be useful for the company to spend more on advertising or incentives for riders in rural cities to use the service more. This may even out the driver to rider ratio increasing overall profit.
+
 3. Tracking miles traveled per ride may also prove fruitfull as it is posible that the disparity in average fares are due to distances travelled. Rural cities are more spread out therefore rides may be longer than un urban communities, this may be driving the fares to be higher per ride. It may also be good to try and track driver to rider ratio through out a 24 hr period. In doing this we can get a better idea of when riders outnumber drivers - this means loss of profit and a wait for the customer.
